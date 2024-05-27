@@ -27,6 +27,9 @@
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Csharp](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=Csharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=0D1117)&nbsp;
+![expo](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=0D1117)&nbsp;
+
+
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
