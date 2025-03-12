@@ -1,7 +1,7 @@
 
 
-# Olá mundo!, Eu sou Natã, Web Developer and Mobile 👋🏼:
-🛜 🚀 Desenvolvedor Front-end apaixonado por tecnologia <br>💻 Transformando ideias em código com JavaScript e React<br>🎨 Criando interfaces incríveis com código e criatividade<br>🔍 Explorando e aprimorando habilidades em desenvolvimento web <br>⚡ Programador em constante evolução <br> 💡 JavaScript | React | React Native | Node.js | Express | MongoDB <br> <i>Tecnologias, Ferramentas e Frameworks</i>
+# Olá mundo!, Eu sou Natã, Web Developer e Mobile 👋🏼:
+ 🚀 Desenvolvedor Front-end apaixonado por tecnologia <br><br>💻 Transformando ideias em código com JavaScript e React <br><br> 🎨 Criando interfaces incríveis com código e criatividade <br><br> 🔍 Explorando e aprimorando habilidades em desenvolvimento web <br><br> ⚡ Programador em constante evolução <br><br> 💡 JavaScript | React | React Native | Node.js | Express | MongoDB <br><br>> <i>Tecnologias, Ferramentas e Frameworks</i>
 
 
 # 💻 Tech Stack:
