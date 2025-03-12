@@ -30,7 +30,7 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/natavaz/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
 <a  target="_blank" href="https://www.instagram.com/https://instagram.com/natavaz" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a>
-<a  href = "mailto:cmp.1a.contato.natavaz@gmail.com">  style="display: inline-block;" <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
+<a  href = "mailto:cmp.1a.contato.natavaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Natã Vaz&show_icons=true&locale=en" alt="Natã Vaz" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Natã Vaz&" alt="Natã Vaz" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Natã Vaz" alt="Natã Vaz" /></a></p>
